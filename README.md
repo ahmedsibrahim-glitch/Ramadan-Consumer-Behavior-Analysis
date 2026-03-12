@@ -96,6 +96,6 @@ This repository contains:
 * Pivot tables
 * Final dashboard
 * ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard..png)
 
 
